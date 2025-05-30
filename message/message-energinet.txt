@@ -1,0 +1,10 @@
+Hello 👋
+
+This is a contribution from Energinet Denmark as part of the open-source-poc initiative. We’re excited to support this proof of concept and explore how open-source collaboration between TSOs can work in practice.
+
+Looking forward to seeing how this evolves.
+
+Best regards,
+Joshua Jesper Krægpøth Ryder
+Software Architect
+Energinet
