@@ -46,4 +46,4 @@ This is just the beginning. From here, more complex proofs of concept can evolve
 
 This could be you! Submit a PR and see your name here! 🎉
 
-![https://upload.wikimedia.org/wikipedia/commons/1/1f/Energinet_logo.svg](https://upload.wikimedia.org/wikipedia/commons/1/1f/Energinet_logo.svg)
+![Energinet logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Energinet_logo.svg)
